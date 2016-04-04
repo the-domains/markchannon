@@ -1,0 +1,28 @@
+name: markchannon
+favicon: null
+layout_spectrum: 0.8050199595745653
+typography_spectrum: 0.4124048331286758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7807084985543042
+  lightness: 0.146778782363981
+  saturation: 0.5552759310230613
+  rhythmicContrast: 0.5104076329153031
+purpose: []
