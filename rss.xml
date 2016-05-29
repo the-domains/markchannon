@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[markchannon]]></title>
+        <description><![CDATA[markchannon]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 May 2016 12:36:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Learn rapidly, grow your skills and achieve your goals]]></title>
+            <description><![CDATA[<article><h1>Learn rapidly, grow your skills and achieve your goals</h1><p>High performance training in Memory, Focus and Emotional Intelligence by one of the worlds first Grand Masters of Memory, Mark Channon. Some of the most unique and effective training you will ever experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c3d4d2179236af3cfc5e4f8c9b7694e967482e4.jpg"></article>]]></description>
+            <link>http://markchannon.com</link>
+            <guid isPermaLink="false">ad44e826-83b5-4adb-b0e8-692e5f1a1034</guid>
+            <pubDate>Sun, 29 May 2016 12:36:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
